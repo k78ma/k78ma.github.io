@@ -6,7 +6,7 @@ subtitle: <a href='mailto:k78ma@uwaterloo.ca'>k78ma@uwaterloo.ca</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Based in Waterloo, ON & Calgary, AB</p>
