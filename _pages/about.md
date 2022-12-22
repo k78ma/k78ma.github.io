@@ -20,7 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I’m Kai, an undergraduate mechatronics engineering student at the University of Waterloo.
 
-I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Specific interests include robotic perception (computer vision), motion planning (reinforcement learning, search/planning algorithms), control, and SLAM. Other interests include embedded programming for robotics (TinyML, RTOS) and quantum computing (quantum ML).
+I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Specific interests include:
+- Perception (computer vision, deep learning, 3D scene representation)
+- Motion planning & control
+- Reinforcement learning
+- Simulation
+- Other impactful applications of AI (medical imaging, agriculture)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
