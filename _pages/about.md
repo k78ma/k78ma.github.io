@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='mailto:k78ma@uwaterloo.ca'>k78ma@uwaterloo.ca</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Based in Waterloo, ON & Calgary, AB</p>
+
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kai, an undergraduate mechatronics engineering student at the University of Waterloo.
+Hi! I’m Kai. Welcome to my website.
 
-I’m mainly interested in AI/ML/DL, especially in terms of their applications to robotics and autonomous systems. Specific interests include:
-- Perception (computer vision, deep learning, 3D scene representation)
+I want to make robots smarter using AI. Specific interests include:
+- Perception (deep learning, computer vision, 3D scene representation)
 - Motion planning & control
 - Reinforcement learning
 - Simulation
-- Other impactful applications of AI (medical imaging, agriculture)
+- TinyML
+- Other impactful applications of AI (medical imaging, mining)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I believe in being well-rounded; as such, I also have skills in hardware and mechanical design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Currently seeking Summer 2023 internships!**
