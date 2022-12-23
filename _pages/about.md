@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I’m Kai. Welcome to my website.
 
-I want to make robots smarter using AI. Specific interests include:
+I want to make robots smarter with AI. Specific interests include:
 - Perception (deep learning, computer vision, 3D scene representation)
 - Motion planning & control
 - Reinforcement learning
@@ -27,6 +27,6 @@ I want to make robots smarter using AI. Specific interests include:
 - TinyML
 - Other impactful applications of AI (medical imaging, mining)
 
-Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I believe in being well-rounded; as such, I also have skills in hardware and mechanical design.
+Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. Toward my general goal of improving robotics, I also have skills in hardware engineering and mechanical design.
 
 **Currently seeking Summer 2023 internships!**
