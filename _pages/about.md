@@ -25,7 +25,7 @@ I want to make robots smarter with AI. Specific interests include:
 - Reinforcement learning
 - Simulation
 - TinyML
-- Other impactful applications of AI (medical imaging, mining)
+- Other impactful applications of AI (healthcare, mining)
 
 Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. Toward my general goal of improving robotics, I also have skills in hardware engineering and mechanical design.
 
