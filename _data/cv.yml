@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Kai Ma
-    - name: Date of Birth
-      value: 17th October 2003
     - name: Languages
       value: English, Mandarin Chinese, Finnish
 
@@ -53,6 +51,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://flairop.com">FLAIROP (Federated Learning for Robot Picking)</a>
+      year: 2022
+      description: Deep learning for robust and secure autonomous grasping.
     - title: <a href="https://github.com/k78ma/COVIDNet-SSL">COVID-Net SSL</a>
       year: 2022
       description: High-performing, trustworthy modular framework for COVID-19 diagnosis with chest radiography.
