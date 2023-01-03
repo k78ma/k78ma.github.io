@@ -17,16 +17,14 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kai. Welcome to my website.
+Hi! I’m Kai. Welcome to my portfolio website.
 
 I want to make robots smarter with AI. Specific interests include:
-- Perception (deep learning, computer vision, 3D scene representation)
-- Motion planning & control
-- Reinforcement learning
-- Simulation
-- TinyML
-- Other impactful applications of AI (healthcare, mining)
+- **Perception** (deep learning, computer vision, 3D scene representation)
+- **Robot learning** (reinforcement learning, planning, control)
+- **Localization & mapping** (SLAM, state estimation, kinematics)
+- Other impactful applications of AI (healthcare, agriculture, mining)
 
-Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. Toward my general goal of improving robotics, I also have skills in hardware engineering and mechanical design.
+Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I also have skills in hardware/electrical engineering, mechanical design, and integrating these with software to create fully-functioning products.  
 
 **Currently seeking Summer 2023 internships!**

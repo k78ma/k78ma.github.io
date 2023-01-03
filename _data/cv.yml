@@ -9,43 +9,32 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Applied Science, Mechatronics Engineering
-      institution: University of Waterloo, Waterloo, ON
+    - title: Honors Bachelor of Applied Science, Mechatronics Engineering
+      institution: University of Waterloo
       year: 2021-2026
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Robotics Engineering Intern
+    - title: Robotics Engineering / Deep Learning Intern
       institution: Vision and Image Processing Lab, University of Waterloo
       year: Sept - Dec 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Working as part of the <a href="https://flairop.com"> FLAIROP (Federated Learning for Robot Picking)</a> project (collaboration with KIT, Festo, DarwinAI) to improve robotic grasping.
+        - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Prof. Alexander Wong </a>.
     - title: Machine Learning & Computer Vision Intern
       institution: National Research Council Canada
       year: Jan - Apr 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as part of the <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project to improve performance and trustworthiness for AI-assisted chest radiography.
+        - Supervised by <a herf="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Prof. Alexander Wong </a>.
 
     - title: Software Engineer + Research Lead
       institution: WATonomous
       year: Apr 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - World Modeling team with focus on motion forecasting.
+        - Leading 3D view synthesis project with neural radiance fields (NeRF).
 
 
 - title: Open Source Projects
@@ -78,16 +67,21 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics / Artificial intelligence.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Perception (deep learning, computer vision, 3D scene representation)
+        - Robot learning (reinforcement learning, planning, control)
+        - Localization & mapping (SLAM, state estimation, kinematics)
+        - Simulation and Sim2Real transfer
+        - Intelligent decision making, AI alignment, and foundation models
+        - Other impactful applications of AI (healthcare, agriculture, mining)
+        - Mechanical, electrical, and software integration for robotics
+    - title: Emerging technologies.
       items:
-        - Description 1.
-        - Description 2.
+        - Quantum computing & quantum ML
+        - Human-computer interaction
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Badminton, music, origami, art.
