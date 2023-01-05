@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Kai Ma
-    - name: Languages
-      value: English, Mandarin Chinese, Finnish
+    - name: Citizenship
+      value: Canada, Finland
 
 - title: Education
   type: time_table
