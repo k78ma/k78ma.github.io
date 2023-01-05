@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category:
+title: 'NRC-IRAP Training GUI'
+description: GUI for training financial growth ML models for NRC's Industrial Research Assistance Program
+img: assets/img/traingui.png
+redirect: https://github.com/k78ma/GUI-training
+importance: 3
+category: public open-source projects
 ---
 
 Every project has a beautiful feature showcase page.

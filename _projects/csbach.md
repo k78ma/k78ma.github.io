@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category:
+title: 'C.S. Bach'
+description: Probabilistic algorithm for rudimentary melody and counterpoint generation.
+img: assets/img/csbach.png
+redirect: https://github.com/k78ma/CSBach
+importance: 3
+category: personal projects
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: 'COVID-Net SSL + AUC'
+description: Improving COVID-19 radiography diagnosis with self-supervised learning and AUC maximization
+img: assets/img/publication_preview/ssl-diagram-cropped.png
+redirect: https://github.com/k78ma/COVIDNet-SSL
+importance: 2
+category: public open-source projects
 ---
 
 Every project has a beautiful feature showcase page.

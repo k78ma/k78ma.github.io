@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 'RL-Adventure'
+description: Learning command policies to play a text-based RPG game with various reinforcement learning methods.
+img: assets/img/homeworld.jpg
+redirect: https://github.com/k78ma/RL-Adventure
 importance: 1
-category:
+category: personal projects
 ---
 
 Every project has a beautiful feature showcase page.
