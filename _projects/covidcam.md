@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category:
+title: 'COVIDCam'
+description: Identifying and logging social distancing and mask-wearing violations in real-time.
+img: assets/img/covidcam.png
+redirect: https://devpost.com/software/covidcam-tentative-name
+importance: 2
+category: personal projects
 ---
 
 Every project has a beautiful feature showcase page.

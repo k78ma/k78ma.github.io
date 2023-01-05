@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 'COVID-Net Transformer'
+description: Exploring explainability for COVID-19 radiography diagnosis with vision transformers
+img: assets/img/publication_preview/transformer-diagram-cropped2.png
+redirect: https://github.com/k78ma/COVIDNet-Transformer
 importance: 1
-category:
+category: public open-source projects
 ---
 
 Every project has a beautiful feature showcase page.
