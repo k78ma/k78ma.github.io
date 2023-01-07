@@ -5,7 +5,7 @@ description: Exploring explainability for COVID-19 radiography diagnosis with vi
 img: assets/img/publication_preview/transformer-diagram-cropped2.png
 redirect: https://github.com/k78ma/COVIDNet-Transformer
 importance: 1
-category: public open-source projects
+category: open-source projects
 ---
 
 Every project has a beautiful feature showcase page.

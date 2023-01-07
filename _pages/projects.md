@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: true
 nav_order: 2
-display_categories: [public open-source projects, personal projects, code unavailable / in-progress]
+display_categories: [open-source projects, personal projects, code unavailable / in-progress]
 horizontal: false
 ---
 
