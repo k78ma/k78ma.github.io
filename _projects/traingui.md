@@ -5,7 +5,7 @@ description: GUI for training financial growth ML models for NRC's Industrial Re
 img: assets/img/traingui.png
 redirect: https://github.com/k78ma/GUI-training
 importance: 3
-category: public open-source projects
+category: open-source projects
 ---
 
 Every project has a beautiful feature showcase page.

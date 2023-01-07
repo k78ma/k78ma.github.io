@@ -25,6 +25,8 @@ I want to make robots smarter with AI. Specific interests include:
 - **Localization & mapping** (SLAM, state estimation, kinematics)
 - Other impactful applications of AI (healthcare, agriculture, mining)
 
-Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I also have skills in hardware/electrical engineering, mechanical design, and integrating these with software to create fully-functioning products.  
+Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I also have skills in hardware/electrical engineering, mechanical design, and integrating these with software to create fully-functioning machines.
 
 **Currently seeking Summer 2023 internships!**
+
+---
