@@ -16,18 +16,26 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Robotics Engineering / Deep Learning Intern
+    - title: Deep Learning Intern
       institution: Vision and Image Processing Lab, University of Waterloo
       year: Sept - Dec 2022
       description:
-        - Working as part of the <a href="https://flairop.com"> FLAIROP (Federated Learning for Robot Picking)</a> project (collaboration with KIT, Festo, DarwinAI) to improve robotic grasping.
+        - Worked as part of the <a href="https://flairop.com"> FLAIROP (Federated Learning for Robot Picking)</a> project (collaboration with KIT, Festo, DarwinAI) to improve robotic grasping.
         - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Prof. Alexander Wong </a>.
+
     - title: Machine Learning & Computer Vision Intern
       institution: National Research Council Canada
       year: Jan - Apr 2022
       description:
         - Worked as part of the <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project to improve performance and trustworthiness for AI-assisted chest radiography.
         - Supervised by <a href="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Prof. Alexander Wong </a>.
+
+    - title: Undergraduate Research Assistant
+      institution: University of Waterloo
+      year: Jan 2023 - Present
+      description:
+        - Part-time research position (funded by President's Research Award).
+        - Extension of work done during co-op term with VIP Lab.
 
     - title: Software Engineer + Research Lead
       institution: WATonomous
@@ -48,14 +56,17 @@
       description: High-performing, trustworthy modular framework for COVID-19 diagnosis with chest radiography.
     - title: <a href="https://github.com/k78ma/GUI-training">NRC-IRAP Training GUI</a>
       year: 2022
-      description: GUI for training ML models for the NRC Industrial Research Assistance Program.
+      description: Graphical user interface (GUI) for training ML models, aimed at users of the NRC Industrial Research Assistance Program.
     - title: <a href="https://github.com/k78ma/COVIDNet-Transformer">COVID-Net Transformer</a>
       year: 2022
-      description: Vision Transformer visualization and explainability for COVID-19 diagnosis.
+      description: Vision Transformer explainability for COVID-19 diagnosis.
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - President's Research Award
     - year: 2022
       items: 
         - Co-op Student of The Year Nominee 
@@ -84,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton, music, origami, art.
+    - <u>Hobbies:</u> Badminton, music, origami/art.
