@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I’m Kai. Welcome to my portfolio website.
 
-I want to make robots smarter with AI. Specific interests include:
+I want make smarter robots and autonomous systems with AI. Specific interests include:
 - **Perception** (deep learning, computer vision, 3D scene representation)
-- **Robot learning** (reinforcement learning, planning, control)
+- **Behavior & Motion Planning** (reinforcement learning, planning, control)
 - **Localization & mapping** (SLAM, state estimation, kinematics)
 - Other impactful applications of AI (healthcare, agriculture, mining)
 
