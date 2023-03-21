@@ -17,6 +17,7 @@
   type: time_table
   contents:
     - title: Deep Learning Intern
+      image_src: "/assets/img/viplogo-c.png"
       institution: Vision and Image Processing Lab, University of Waterloo
       year: Sept - Dec 2022
       description:
@@ -24,6 +25,7 @@
         - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
 
     - title: Machine Learning & Computer Vision Intern
+      image_src: "/assets/img/nrc-logo-nobg.png"
       institution: National Research Council Canada
       year: Jan - Apr 2022
       description:
@@ -31,13 +33,16 @@
         - Supervised by <a href="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
 
     - title: Undergraduate Research Assistant
+      image_src: "/assets/img/uw-circle.png"
       institution: University of Waterloo
       year: Jan 2023 - Present
       description:
-        - Part-time research position (funded by President's Research Award).
+        - Part-time research position automating object detection pipelines for robotic vision systems.
+        - Funded by President's Research Award.
         - Extension of work done during co-op term with VIP Lab.
 
     - title: Software Engineer + Research Lead
+      image_src: "/assets/img/wato-logo.png"
       institution: WATonomous
       year: Mar 2022 - Present
       description:

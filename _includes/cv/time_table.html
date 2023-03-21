@@ -7,6 +7,11 @@
               <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
                 {{ content.year }}
               </span>
+              {% if content.image_src %}
+              <div style="margin-top: 20px;">
+                <img src="{{ content.image_src }}" alt="{{ content.title }}" class="img-fluid" style="width: 80px;">
+              </div>
+              {% endif %}
             </div>
           {% endif %}
           <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
