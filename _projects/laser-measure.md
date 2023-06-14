@@ -1,14 +1,11 @@
 ---
 layout: page
-title: (MTE 201) Laser Measurement System
+title: (MTE 201) Measurement System
 description: Measuring lengths of objects by dropping them across a laser; built with Arduino.
-img: assets/img/laser-measure.png
+img: assets/img/laser-measure-cover.jpg
 importance: 1
-category: school projects
+category: dev
 ---
-
-Public code is not yet available for this project, which was completed as part of my internship at the University of Waterloo's Vision and Image Processing (VIP) Lab. This project was a part of the FLAIROP (Federated Learning for Robot Picking) iniative, a partnership between the VIP Lab, DarwinAI, FESTO, and the Karlsruhe Institute of Technology.
-
 ### Project Summary
 
 The specific problem I worked to address was data imbalance for object detection on the MetaGraspNet dataset. Specifically, we found that after training one network with all classes on the dataset and generating a confusion matrix, certain classes suffered from much lower accuracy. A particularly prevalent issue causing this was high similarity between classes; for example, screws that have identical heads but different bodies.
