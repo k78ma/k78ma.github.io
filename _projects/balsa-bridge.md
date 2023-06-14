@@ -6,21 +6,39 @@ img: assets/img/balsa-bridge.jpg
 importance: 1
 category: school projects
 ---
-
-Public code is not yet available for this project, which was completed as part of my internship at the University of Waterloo's Vision and Image Processing (VIP) Lab. This project was a part of the FLAIROP (Federated Learning for Robot Picking) iniative, a partnership between the VIP Lab, DarwinAI, FESTO, and the Karlsruhe Institute of Technology.
-
 ### Project Summary
 
-The specific problem I worked to address was data imbalance for object detection on the MetaGraspNet dataset. Specifically, we found that after training one network with all classes on the dataset and generating a confusion matrix, certain classes suffered from much lower accuracy. A particularly prevalent issue causing this was high similarity between classes; for example, screws that have identical heads but different bodies.
+This project involved designing and constructing a full 3-dimensional truss bridge was with balsa wood with the overall goal
+of maximizing strength-to-weight ratio (PV), where:
+\begin{equation}
+PV = \frac{\text{Max applied load}}{\text{Mass of the truss}}
+\end{equation}
+The truss was suspended across a gap, with a hook on one side and a platform on the other. Design
+constraints included dimensional constraints (40cm × 8cm × 10cm), as well as material constraints
+(amount of balsa wood and hardwood dowel).
+Various concepts were evaluated based on design criteria, such as load capacity, material efficiency,
+and construction-related considerations. After these concepts were evaluated, the final design was
+chosen and calculations were done, with a theoretical PV of 258.6.
+The final design was realized with three iterations; an initial iteration to test the design and identify
+weaknesses, a second iteration with minor tweaks to address these weaknesses, and a third iteration
+prepared for the official competition. The official bridge evaluated at the competition had a mass of
+15.9g and was able to hold 5kg (failing due to link tearing when 5.5kg was loaded), resulting in a PV
+of 314.4; this result is reasonably close to our theoretical calculations and preliminary tests.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/djtoyairplane.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3d_bridge.png" title="Bridge sketches" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Highly similar toy airplane screw objects and confusion matrix.
+    Bridge sketches.
 </div>
 
-We found that splitting the classes that are more difficult to train and training individual networks on these specific datasets led to an improvement in performance. For example, for our representative case of screws, we created a sub-dataset of MetaGraspNet, where every image contained at least one screw. Then, we only ask create an **expert model** to identify these two classes instead of all 97 classes in MetaGraspNet.
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bridge_failure.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Failure point of bridge.
+</div>
