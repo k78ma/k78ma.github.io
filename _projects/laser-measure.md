@@ -4,7 +4,7 @@ title: (MTE 201) Measurement System
 description: Measuring lengths of objects by dropping them across a laser; built with Arduino.
 img: assets/img/laser-measure-cover.jpg
 importance: 2
-category: school
+category: school projects
 ---
 ### Project Summary
 
