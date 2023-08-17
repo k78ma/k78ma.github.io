@@ -86,16 +86,16 @@ x = selected_expert.extract_feat(img)
 ```
 {% endraw %}
 
-I chose to design this in this manner according to our experiments architecture experiments, where we determined that the backbone feature extraction is the most crucial stage. A similar gate-based feature extraction is also included in the forward pass of the testing function.
+I chose to design this in this manner according to our architecture experiments, where we determined that the backbone feature extraction is the most crucial stage. A similar gate-based feature extraction is also included in the forward pass of the testing function.
 
-I implemented a simple **gating network** that takes an input image and outputs a set of weights that allow us to choose an expert to use based on their confidence. I experimented with several different architectures; the one shown below is one of the relatively simpler ones. Here is the way I defined the gating network:
+I experimented with **gating networs** that take an input image and output a set of weights, essentially allowing us to choose an expert to use based on their confidence. Several different architectures; the one shown below is a simple example. Here is the way I defined the gating network:
 - Defined the input and output layers of the gating network. The input layer takes the input
 image, and the output layer output the model confidences for each of the expert models.
 - Defined hidden layers of the gating network, as well as activation functions (ReLU).
 
 {% raw %}
 ```python
-# define the GatingNetwork class
+# Simple GatingNetwork class
 class GatingNetwork(torch.nn.Module):
     def __init__(self, input_size, num_experts):
         super().__init__()

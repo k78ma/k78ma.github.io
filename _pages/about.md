@@ -17,16 +17,17 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kai. Welcome to my portfolio website.
+Hi! I’m Kai. Welcome to my website.
 
-I want to make smarter robots and autonomous systems with AI. Some specific interests include:
-- **Perception** (ML/DL, computer vision, 3D scene representation)
-- **Robot Learning** (behavior & motion planning, control)
-- **Localization & mapping** (SLAM, state estimation, kinematics)
+I use AI to build smarter robots and autonomous systems. Some specific interests include:
+- **Perception** (ML/DL, sensor fusion, 3D scene representation)
+- **Navigation & Localization** (SLAM, mapping, state estimation)
+- **Planning & Controls** (Trajectory optimization, MPC)
 - Other impactful applications of AI (healthcare, agriculture, mining)
 
-Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving cars to robotic arms. I also have skills in hardware/electrical engineering, mechanical design, and integrating these with software to create fully-functioning machines.
+Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving vehicles to robotic arms. I also have research experience in various areas of AI with peer-reviewed publications. In general, I aim to find simple solutions to complex problems in order to make the things I build powerful and flexible.
 
+**Seeking co-op/internship positions for Jan-Apr 2024.**
 <br>
 
 ---

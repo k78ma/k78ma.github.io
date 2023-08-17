@@ -4,7 +4,7 @@
     - name: Full Name
       value: Kai Ma
     - name: Citizenship
-      value: Canada, Finland (EU)
+      value: Canada, Finland
 
 - title: Education
   type: time_table
@@ -16,12 +16,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Robotics Engineering Intern
+      image_src: "/assets/img/polymath.jpeg"
+      institution: Polymath Robotics
+      year: May - Aug 2022
+      description:
+        - Artificial intelligence R&D for autonomous industrial vehicles.
+        - 3D object detection (LiDAR/Multi-modal) model training and deployment.
+        - Costmap generation & ROS integration for <a href="https://www.compoundeye.com/vidas-devkit"> Compound Eye VIDAS  </a> cameras.
     - title: Deep Learning Intern
       image_src: "/assets/img/vip-logo-d.png"
       institution: Vision and Image Processing Lab, University of Waterloo
       year: Sept - Dec 2022
       description:
-        - Worked as part of the <a href="https://flairop.com"> FLAIROP (Federated Learning for Robot Picking)</a> project (collaboration with KIT, Festo, DarwinAI) to improve robotic grasping.
+        - <a href="https://flairop.com"> FLAIROP</a> project (with KIT, Festo, DarwinAI) to improve robotic grasping.
         - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
 
     - title: Machine Learning & Computer Vision Intern
@@ -29,7 +37,7 @@
       institution: National Research Council Canada
       year: Jan - Apr 2022
       description:
-        - Worked as part of the <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project to improve performance and trustworthiness for AI-assisted chest radiography.
+        - <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project&#58; improving performance and trustworthiness for AI-assisted chest radiography.
         - Supervised by <a href="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
 
     - title: Undergraduate Research Assistant
@@ -72,12 +80,13 @@
     - year: 2023
       items:
         - President's Research Award
+        - CNRL Building Futures Scholarship
     - year: 2022
       items: 
         - Co-op Student of The Year Nominee 
-        - President's Scholarship of Distinction
     - year: 2021
       items: 
+        - President's Scholarship of Distinction
         - CNRL Building Futures Scholarship
 
 - title: Academic Interests
