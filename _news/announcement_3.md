@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My papers was accepted to Sensors (MDPI)!
+My paper on trustworthy COVID-19 diagnosis was accepted to Sensors (MDPI)!
