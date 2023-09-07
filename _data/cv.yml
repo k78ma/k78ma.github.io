@@ -2,111 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Kai Ma
-    - name: Citizenship
-      value: Canada, Finland
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Honors Bachelor of Applied Science, Mechatronics Engineering
-      institution: University of Waterloo
-      year: 2021-2026
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Robotics Engineering Intern
-      image_src: "/assets/img/polymath.jpeg"
-      institution: Polymath Robotics
-      year: May - Aug 2023
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Artificial intelligence R&D for autonomous industrial vehicles.
-        - 3D object detection (LiDAR/Multi-modal) model training and deployment.
-        - Costmap generation & ROS integration for <a href="https://www.compoundeye.com/vidas-devkit"> Compound Eye VIDAS  </a> cameras.
-    - title: Deep Learning Intern
-      image_src: "/assets/img/vip-logo-d.png"
-      institution: Vision and Image Processing Lab, University of Waterloo
-      year: Sept - Dec 2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - <a href="https://flairop.com"> FLAIROP</a> project (with KIT, Festo, DarwinAI) to improve robotic grasping.
-        - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
+        - Description 1.
+        - Description 2.
 
-    - title: Machine Learning & Computer Vision Intern
-      image_src: "/assets/img/nrc-logo-nobg.png"
-      institution: National Research Council Canada
-      year: Jan - Apr 2022
-      description:
-        - <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project&#58; improving performance and trustworthiness for AI-assisted chest radiography.
-        - Supervised by <a href="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Undergraduate Research Assistant
-      image_src: "/assets/img/uw-circle.png"
-      institution: University of Waterloo
-      year: Jan 2023 - Present
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Part-time research position automating object detection pipelines for robotic vision systems.
-        - Funded by President's Research Award.
-        - Extension of work done during co-op term with VIP Lab.
 
-    - title: Software Engineer + Research Lead
-      image_src: "/assets/img/wato-logo.png"
-      institution: WATonomous
-      year: Mar 2022 - Present
-      description:
-        - Core Member - World Modeling team.
-        - Research on trajectory prediction and action recognition.
-
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://flairop.com">FLAIROP (Federated Learning for Robot Picking)</a>
-      year: 2022
-      description: Deep learning for robust and secure autonomous grasping.
-    - title: <a href="https://github.com/k78ma/COVIDNet-SSL">COVID-Net SSL</a>
-      year: 2022
-      description: High-performing, trustworthy modular framework for COVID-19 diagnosis with chest radiography.
-    - title: <a href="https://github.com/k78ma/GUI-training">NRC-IRAP Training GUI</a>
-      year: 2022
-      description: Graphical user interface (GUI) for training ML models, aimed at users of the NRC Industrial Research Assistance Program.
-    - title: <a href="https://github.com/k78ma/COVIDNet-Transformer">COVID-Net Transformer</a>
-      year: 2022
-      description: Vision Transformer explainability for COVID-19 diagnosis.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
-      items:
-        - President's Research Award
-        - CNRL Building Futures Scholarship
-    - year: 2022
+    - year: 1921
       items: 
-        - Co-op Student of The Year Nominee 
-    - year: 2021
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - President's Scholarship of Distinction
-        - CNRL Building Futures Scholarship
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Robotics / Artificial intelligence.
+    - title: Topic 1.
       items: 
-        - Perception (deep learning, computer vision, 3D scene representation)
-        - Robot learning (reinforcement learning, planning, control)
-        - Localization & mapping (SLAM, state estimation, kinematics)
-        - Simulation and Sim2Real transfer
-        - Intelligent decision making, AI alignment, and foundation models
-        - Other impactful applications of AI (healthcare, agriculture, mining)
-        - Mechanical, electrical, and software integration for robotics
-    - title: Emerging technologies.
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - Quantum computing & quantum ML
-        - Human-computer interaction
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton, music, origami/art.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
