@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Kai_Ma_Resume.pdf
+cv_pdf: Kai_Ma_Resume_2023.pdf
 ---
