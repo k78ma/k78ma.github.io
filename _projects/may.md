@@ -3,7 +3,7 @@ layout: page
 title: MAY
 description: Create, re-use and share LLM-generated applications with self-debugging and semantic search. 
 img: assets/img/may.png
-redirect: https://github.com/thomasonzhou/slime-volley-team
+redirect: https://devpost.com/software/may
 importance: 2
 category: personal projects
 ---
