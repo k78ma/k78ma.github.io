@@ -58,9 +58,12 @@
         - Research on trajectory prediction and action recognition.
 
 
-- title: Open Source Projects
+- title: Open Source Projects/Contributions
   type: time_table
   contents:
+    - title: <a href="https://github.com/ml-explore/mlx">MLX</a>
+      year: 2023
+      description: Contributions to MLX, Apple's deep learning framework.
     - title: <a href="https://flairop.com">FLAIROP (Federated Learning for Robot Picking)</a>
       year: 2022
       description: Deep learning for robust and secure autonomous grasping.
@@ -69,7 +72,7 @@
       description: High-performing, trustworthy modular framework for COVID-19 diagnosis with chest radiography.
     - title: <a href="https://github.com/k78ma/GUI-training">NRC-IRAP Training GUI</a>
       year: 2022
-      description: Graphical user interface (GUI) for training ML models, aimed at users of the NRC Industrial Research Assistance Program.
+      description: Model training platform for the NRC Industrial Research Assistance Program.
     - title: <a href="https://github.com/k78ma/COVIDNet-Transformer">COVID-Net Transformer</a>
       year: 2022
       description: Vision Transformer explainability for COVID-19 diagnosis.
