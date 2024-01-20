@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 Hi! I’m Kai. Welcome to my website.
 
 I use AI to build smarter robots and autonomous systems. Some specific interests include:
-- Robotics (Perception, mapping motion planning, controls)
-- Large Language Models and Autonomous Agents
-- Other impactful applications of AI (healthcare, agriculture, mining)
+- Robotics (Perception, motion planning, SLAM, controls)
+- Foundation models, scaling, and the path toward AGI
+- Impactful applications of AI (healthcare, agriculture, mining)
 
 Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving vehicles to robotic arms. I also have research experience in various areas of AI with peer-reviewed publications. In general, I aim to find simple solutions to complex problems in order to make the things I build powerful and flexible.
 
