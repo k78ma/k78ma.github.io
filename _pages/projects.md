@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my projects.
+description: stuff I built.
 nav: true
 nav_order: 2
 display_categories: [open-source contributions, personal projects, code unavailable / in-progress, school projects]

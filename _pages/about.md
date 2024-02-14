@@ -6,10 +6,10 @@ subtitle: <a href='mailto:k78ma@uwaterloo.ca'>k78ma@uwaterloo.ca</a>
 
 profile:
   align: right
-  image: pfp.jpg
+  image: ggbridge.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Based in Waterloo, ON & Calgary, AB</p>
+    <p>Working in SF currently!</p>
 
 
 news: true  # includes a list of news items
@@ -18,15 +18,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 **Seeking co-op/internship positions for Fall 2024.**
 
-Hi! I’m Kai. Welcome to my website.
+Welcome to my website!
 
-I use AI to build smarter robots and autonomous systems. Some specific interests include:
-- Robotics (Perception, motion planning, SLAM, controls)
-- Foundation models, scaling, and the path toward AGI
-- Impactful applications of AI (healthcare, agriculture, mining)
+I'm a third-year student at the University of Waterloo, studying Mechatronics Engineering (+ AI option). Some things I've worked on:
+- Autonomous industrial vehicles at [Polymath Robotics](https://www.polymathrobotics.com/)
+- Perception models for robot picking with [FLAIROP](https://flairop.com/)
+- Medical machine learning research on the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project
+- Building a self-driving car with fellow students at [WATonomous](https://www.watonomous.ca/)
 
-Through my past work and projects, I've gained significant experience with developing intelligent systems, from self-driving vehicles to robotic arms. I also have research experience in various areas of AI with peer-reviewed publications. In general, I aim to find simple solutions to complex problems in order to make the things I build powerful and flexible.
-
+Recently, I've been interested in building software for robots, as well as research for AI/ML. You can see what I've been learning and what I've been up to by visiting my collection of 500+ [notes](https://k78ma.github.io/quartz).
 <br>
 
 ---
