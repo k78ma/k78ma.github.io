@@ -9,9 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Honors Bachelor of Applied Science, Mechatronics Engineering
+    - title: BASc, Mechatronics Engineering + AI Option
+      image_src: "/assets/img/uw-circle.png"
       institution: University of Waterloo
       year: 2021-2026
+      description:
+        - Coursework - Advanced Calculus (90), Systems & Signals (91), Computer Structures & RTOS (100)
 
 - title: Experience
   type: time_table
@@ -21,20 +24,20 @@
       institution: Polymath Robotics
       year: May 2023 - Present
       description:
-        - Artificial intelligence R&D for autonomous industrial vehicles.
-        - 3D object detection (LiDAR/Multi-modal) model training and deployment.
-        - Costmap generation & ROS integration for <a href="https://www.compoundeye.com/vidas-devkit"> Compound Eye VIDAS  </a> cameras.
-    - title: Deep Learning Intern
+        - 3D object detection (LiDAR/Multi-modal) model training and deployment
+        - Sensor and node health monitoring for ROS 2 systems
+        - Costmap generation & ROS 2 integration for <a href="https://www.compoundeye.com/vidas-devkit"> Compound Eye VIDAS  </a> cameras
+    - title: Research Intern
       image_src: "/assets/img/vip-logo-d.png"
       institution: Vision and Image Processing Lab, University of Waterloo
       year: Sept - Dec 2022
       description:
-        - <a href="https://flairop.com"> FLAIROP</a> project (with KIT, Festo, DarwinAI) to improve robotic grasping.
-        - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
+        - <a href="https://flairop.com"> FLAIROP</a> project (with KIT, Festo, DarwinAI) to improve robotic grasping
+        - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>
 
-    - title: Machine Learning & Computer Vision Intern
+    - title: Machine Learning Intern
       image_src: "/assets/img/nrc-logo-nobg.png"
-      institution: National Research Council Canada
+      institution: National Research Council Canada / VIP Lab
       year: Jan - Apr 2022
       description:
         - <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project&#58; improving performance and trustworthiness for AI-assisted chest radiography.
@@ -43,7 +46,7 @@
     - title: Undergraduate Research Assistant
       image_src: "/assets/img/uw-circle.png"
       institution: University of Waterloo
-      year: Jan 2023 - Present
+      year: Jan - Apr 2023
       description:
         - Part-time research position automating object detection pipelines for robotic vision systems.
         - Funded by President's Research Award.
@@ -57,39 +60,39 @@
         - Research on trajectory prediction and action recognition.
 
 
-- title: Open Source Projects/Contributions
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/ml-explore/mlx">MLX</a>
-      year: 2023
-      description: Minor contributions to MLX, Apple's deep learning framework.
-    - title: <a href="https://flairop.com">FLAIROP (Federated Learning for Robot Picking)</a>
-      year: 2022
-      description: Deep learning for robust and secure autonomous grasping.
-    - title: <a href="https://github.com/k78ma/COVIDNet-SSL">COVID-Net SSL</a>
-      year: 2022
-      description: High-performing modular framework for medical imaging.
-    - title: <a href="https://github.com/k78ma/GUI-training">NRC-IRAP Training GUI</a>
-      year: 2022
-      description: Revenue prediction for the NRC Industrial Research Assistance Program.
-    - title: <a href="https://github.com/k78ma/COVIDNet-Transformer">COVID-Net Transformer</a>
-      year: 2022
-      description: Vision Transformer explainability for COVID-19 diagnosis.
+# - title: Open Source Projects/Contributions
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/ml-explore/mlx">MLX</a>
+#       year: 2023
+#       description: Minor contributions to MLX, Apple's deep learning framework.
+#     - title: <a href="https://flairop.com">FLAIROP (Federated Learning for Robot Picking)</a>
+#       year: 2022
+#       description: Deep learning for robust and secure autonomous grasping.
+#     - title: <a href="https://github.com/k78ma/COVIDNet-SSL">COVID-Net SSL</a>
+#       year: 2022
+#       description: High-performing modular framework for medical imaging.
+#     - title: <a href="https://github.com/k78ma/GUI-training">NRC-IRAP Training GUI</a>
+#       year: 2022
+#       description: Revenue prediction for the NRC Industrial Research Assistance Program.
+#     - title: <a href="https://github.com/k78ma/COVIDNet-Transformer">COVID-Net Transformer</a>
+#       year: 2022
+#       description: Vision Transformer explainability for COVID-19 diagnosis.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - President's Research Award
-        - CNRL Building Futures Scholarship
-    - year: 2022
-      items: 
-        - Co-op Student of The Year Nominee 
-    - year: 2021
-      items: 
-        - President's Scholarship of Distinction
-        - CNRL Building Futures Scholarship
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2023
+#       items:
+#         - President's Research Award
+#         - CNRL Building Futures Scholarship
+#     - year: 2022
+#       items: 
+#         - Co-op Student of The Year Nominee 
+#     - year: 2021
+#       items: 
+#         - President's Scholarship of Distinction
+#         - CNRL Building Futures Scholarship
 
 - title: Academic Interests
   type: nested_list

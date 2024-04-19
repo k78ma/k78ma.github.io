@@ -5,6 +5,6 @@ description: Identifying and logging social distancing and mask-wearing violatio
 img: assets/img/covidcam.png
 redirect: https://devpost.com/software/covidcam-tentative-name
 importance: 3
-category: personal projects
+category: archived
 ---
 
