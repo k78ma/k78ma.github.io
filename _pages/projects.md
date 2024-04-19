@@ -5,7 +5,7 @@ permalink: /projects/
 description: stuff I built.
 nav: true
 nav_order: 2
-display_categories: [open-source contributions, personal projects, code unavailable / in-progress, school projects]
+display_categories: [open-source work, personal projects, other]
 horizontal: false
 ---
 

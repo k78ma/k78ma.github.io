@@ -4,7 +4,7 @@ title: Grab & Dodge
 description: Combining deep reinforcement learning methods to reach and grab targets while avoiding obstacles. (WIP)
 img: assets/img/fred.gif
 importance: 3
-category: code unavailable / in-progress
+category: archived
 ---
 
 **Work in progress.**
