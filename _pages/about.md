@@ -9,7 +9,7 @@ profile:
   image: ggbridge.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Working in SF currently!</p>
+    <p>Currently in Waterloo</p>
 
 
 news: true  # includes a list of news items
@@ -24,9 +24,8 @@ I'm a third-year student at the University of Waterloo, studying Mechatronics En
 - Medical deep learning on the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project
 - Building a self-driving car at [WATonomous](https://www.watonomous.ca/)
 
-Recently, I've been interested in building software for robots, as well as research for AI/ML. You can see what I've been learning and what I've been up to by visiting my collection of 600+ [notes](https://k78ma.github.io/quartz).
-
-Don't like what you see here? Check out my friends' websites instead.
+Recently, I've been interested in building software for robots, as well as research for AI/ML. You can see what I've been learning and what I've been up to by visiting my collection of 700+ [notes](https://k78ma.github.io/quartz).
+<br>
 <br>
 
 ---
