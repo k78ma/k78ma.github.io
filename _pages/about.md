@@ -9,7 +9,7 @@ profile:
   image: ggbridge.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Currently in Waterloo</p>
+    <p><obligatory bridge picture></p>
 
 
 news: true  # includes a list of news items
