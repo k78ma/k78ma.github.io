@@ -22,7 +22,7 @@
     - title: Robotics Engineering Intern
       image_src: "/assets/img/polymath.jpeg"
       institution: Polymath Robotics
-      year: May 2023 - Present
+      year: May 2023 - Apr 2024
       description:
         - 3D object detection (LiDAR/Multi-modal) model training and deployment
         - Sensor and node health monitoring for ROS 2 systems
