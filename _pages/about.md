@@ -24,7 +24,7 @@ I'm a third-year student at the University of Waterloo, studying Mechatronics En
 - Medical deep learning on the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project
 - Building a self-driving car at [WATonomous](https://www.watonomous.ca/)
 
-Recently, I've been interested in building software for robots, as well as research for AI/ML. You can see what I've been learning and what I've been up to by visiting my collection of 800+ [notes](https://k78ma.github.io/quartz).
+Recently, I've been interested in building software for robots, as well as research for AI/ML. You can see what I've been learning and what I've been up to by visiting my collection of 900+ [notes](https://k78ma.github.io/quartz).
 <br>
 <br>
 
