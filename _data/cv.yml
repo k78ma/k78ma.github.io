@@ -14,15 +14,20 @@
       institution: University of Waterloo
       year: 2021-2026
       description:
-        - Coursework - Advanced Calculus (90), Systems & Signals (91), Computer Structures & RTOS (100)
-
+        - President’s Research Award, President's Scholarship of Distinction
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer Intern, AV Perception
+      image_src: "/assets/img/nvidia-png.png"
+      institution: NVIDIA
+      year: Sept '24 - Pres.
+      description:
+        - Multi-sensor fusion for autonomous vehicles
     - title: Robotics Engineering Intern
       image_src: "/assets/img/polymath.jpeg"
       institution: Polymath Robotics
-      year: May 2023 - Apr 2024
+      year: May '23 - Apr '24
       description:
         - 3D object detection (LiDAR/Multi-modal) model training and deployment
         - Sensor and node health monitoring for ROS 2 systems
@@ -30,7 +35,7 @@
     - title: Research Intern
       image_src: "/assets/img/vip-logo-d.png"
       institution: Vision and Image Processing Lab, University of Waterloo
-      year: Sept - Dec 2022
+      year: Sept - Dec '22
       description:
         - <a href="https://flairop.com"> FLAIROP</a> project (with KIT, Festo, DarwinAI) to improve robotic grasping
         - Supervised by <a href="https://www.linkedin.com/in/yuhao-chen-789a2164/"> Dr. Yuhao Chen </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>
@@ -38,7 +43,7 @@
     - title: Machine Learning Intern
       image_src: "/assets/img/nrc-logo-nobg.png"
       institution: National Research Council Canada / VIP Lab
-      year: Jan - Apr 2022
+      year: Jan - Apr '22
       description:
         - <a href="https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection"> COVID-Net </a> project&#58; improving performance and trustworthiness for AI-assisted chest radiography.
         - Supervised by <a href="https://sites.google.com/view/perryxi/?pli=1"> Dr. Pengcheng Xi </a> and <a href="https://uwaterloo.ca/systems-design-engineering/profile/a28wong"> Dr. Alexander Wong</a>.
@@ -46,7 +51,7 @@
     - title: Undergraduate Research Assistant
       image_src: "/assets/img/uw-circle.png"
       institution: University of Waterloo
-      year: Jan - Apr 2023
+      year: Jan - Apr '23
       description:
         - Part-time research position automating object detection pipelines for robotic vision systems.
         - Funded by President's Research Award.
@@ -55,7 +60,7 @@
     - title: Research Engineer
       image_src: "/assets/img/wato-logo.png"
       institution: WATonomous
-      year: Mar 2022 - Present
+      year: Mar '22 - Aug '24
       description:
         - Research on trajectory prediction and action recognition.
 
