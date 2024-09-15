@@ -25,7 +25,7 @@ I'm a third-year student at the University of Waterloo, studying Mechatronics En
 - Medical deep learning on the [COVID-Net](https://nrc.canada.ca/en/research-development/research-collaboration/programs/covid-net-ai-assisted-diagnosis-prognosis-covid-19-infection) project
 - Building a self-driving car from the ground up at [WATonomous](https://www.watonomous.ca/)
 
-I'm primarily interested in robotics, with a preference for research and research-adjacent work. My current research interests are self-supervised learning and effective world modeling. You can see what I've been learning and what I've been up to by visiting my collection of 1000+ [notes](https://k78ma.github.io/quartz).
+I'm primarily interested in robotics, both in building useful products/tools and doing research to push the state-of-the-art. My current research interests are self-supervised learning and effective world modeling. You can see what I've been learning and what I've been up to by visiting my collection of 1000+ [notes](https://k78ma.github.io/quartz).
 <br>
 <br>
 
