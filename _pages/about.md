@@ -8,8 +8,6 @@ profile:
   align: right
   image: ggbridge.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>(obligatory bridge picture)</p>
 
 
 news: true  # includes a list of news items
