@@ -9,3 +9,7 @@ _site
 Gemfile.lock
 vendor
 
+# Ignore large video files
+*.mp4
+assets/video/
+
