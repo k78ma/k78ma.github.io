@@ -5,7 +5,7 @@ permalink: /work/
 description: Stuff I've done.
 nav: true
 nav_order: 2
-display_categories: [research projects, open-source work, robots, personal projects, school projects, hackathons]
+display_categories: [research projects, open-source work, robots, personal projects, hackathons]
 horizontal: false
 ---
 
