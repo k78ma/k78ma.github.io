@@ -3,11 +3,11 @@ layout: page
 title: MoE-FLAIROP
 description: Mixture-of-Experts adaptive model ensemble to improve classification for similar objects.
 img: assets/img/moe-flairop.png
-importance: 1
-category: other
+importance: 3
+category: research projects
 ---
 
-Public code is not yet available for this project, which was completed as part of my internship at the University of Waterloo's Vision and Image Processing (VIP) Lab. This project was a part of the FLAIROP (Federated Learning for Robot Picking) iniative, a partnership between the VIP Lab, DarwinAI, FESTO, and the Karlsruhe Institute of Technology.
+Public code is not yet available for this project, which was completed as part of my internship at the University of Waterloo's Vision and Image Processing (VIP) Lab. This project was a part of the FLAIROP (Federated Learning for Robot Picking) iniative, a partnership between the VIP Lab, DarwinAI, FESTO, and the Karlsruhe Institute of Technology. You can read a full report I wrote about this [here](/assets/pdf/flairop_report.pdf).
 
 ### Project Summary
 

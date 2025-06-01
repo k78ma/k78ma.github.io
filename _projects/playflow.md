@@ -5,6 +5,6 @@ description: (UC Berkeley AI Hackathon) Text-to-playlist generative AI + Spotify
 img: assets/img/playflowcover.jpg
 redirect: https://devpost.com/software/repertoire-lojsar
 importance: 2
-category: personal projects
+category: hackathons
 ---
 

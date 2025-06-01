@@ -4,7 +4,7 @@
     - name: Full Name
       value: Kai Ma
     - name: Citizenship
-      value: Canada, Finland (EU)
+      value: Canada, Finland
 
 - title: Education
   type: time_table

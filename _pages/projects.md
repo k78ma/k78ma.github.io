@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: Stuff I built.
+title: work
+permalink: /work/
+description: Stuff I've done.
 nav: true
 nav_order: 2
-display_categories: [open-source work, personal projects, other]
+display_categories: [research projects, open-source work, robots, personal projects, school projects, hackathons]
 horizontal: false
 ---
 

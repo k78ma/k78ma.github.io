@@ -5,7 +5,7 @@ description: Create, re-use and share LLM-generated applications with self-debug
 img: assets/img/may.png
 redirect: https://devpost.com/software/may
 importance: 2
-category: personal projects
+category: hackathons
 ---
 
 **Work in progress**. 
