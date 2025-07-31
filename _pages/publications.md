@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Stuff I wrote. Check Google Scholar (see main page) for fully updated list.
+description: Some stuff I wrote.
 years: [2023, 2022]
 nav: true
 nav_order: 1
