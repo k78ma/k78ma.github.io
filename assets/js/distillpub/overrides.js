@@ -1,4 +1,26 @@
 $(document).ready(function() {
+    // Remove the affiliations column from Distill bylines.
+    document.querySelectorAll("d-byline").forEach(function(byline) {
+        const root = byline.shadowRoot;
+        if (!root) return;
+
+        const headings = root.querySelectorAll("h3");
+        headings.forEach(function(heading) {
+            if (heading.textContent.trim().toLowerCase() === "affiliations") {
+                heading.remove();
+            }
+        });
+
+        root.querySelectorAll("p.affiliation").forEach(function(affiliation) {
+            affiliation.remove();
+        });
+
+        const authors = root.querySelector(".authors-affiliations");
+        if (authors) {
+            authors.style.gridTemplateColumns = "1fr";
+        }
+    });
+
     // Override styles of the footnotes.
     document.querySelectorAll("d-footnote").forEach(function(footnote) {
         footnote.shadowRoot.querySelector("sup > span")

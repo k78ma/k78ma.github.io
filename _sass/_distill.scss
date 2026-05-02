@@ -116,6 +116,10 @@ d-article {
   d-footnote {
     scroll-margin-top: 66px;
   }
+
+  d-byline .authors-affiliations.no-affiliations {
+    grid-template-columns: 1fr;
+  }
 }
 
 d-appendix {

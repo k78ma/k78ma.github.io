@@ -2083,19 +2083,13 @@ d-appendix > distill-appendix {
   function bylineTemplate(frontMatter) {
     return `
   <div class="byline grid">
-    <div class="authors-affiliations grid">
+    <div class="authors-affiliations grid" style="grid-template-columns: 1fr;">
       <h3>Authors</h3>
-      <h3>Affiliations</h3>
       ${frontMatter.authors.map(author => `
         <p class="author">
           ${author.personalURL ? `
             <a class="name" href="${author.personalURL}">${author.name}</a>` : `
             <span class="name">${author.name}</span>`}
-        </p>
-        <p class="affiliation">
-        ${author.affiliations.map(affiliation =>
-          affiliation.url ? `<a class="affiliation" href="${affiliation.url}">${affiliation.name}</a>` : `<span class="affiliation">${affiliation.name}</span>`
-        ).join(', ')}
         </p>
       `).join('')}
     </div>
