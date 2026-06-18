@@ -14,7 +14,8 @@ nav_order: 2
 - [NRC-IRAP](Financial growth ML models for NRC's Industrial Research Assistance Program) - Financial growth ML models for NRC's Industrial Research Assistance Program
 
 #### Robots
-- [Mercedes-Benz Cars](https://www.mbusa.com/en/owners/manuals/drive-pilot) - Perception and Active Safety for L2++ capabilities (NVIDIA AV)
+- [roamr](https://uw-roamr.github.io/) - Turn your iPhone into an autonomous mobile robot!
+- [Mercedes-Benz Cars](https://www.mbusa.com/en/owners/manuals/drive-pilot) - Perception and Active Safety for L2++/L4 capabilities (NVIDIA AV)
 - [Farmonacci](https://www.polymathrobotics.com/blog/adding-machine-learning-to-polymaths-perception-system) - ML-based perception and mapping Polymath Robotics' trusty demo tractor
 - [Tubpuller/Compound Eye](https://www.compoundeye.com/) - Compound Eye stereo vision and mapping ROS 2 drivers, deployed onto an agricultural vehicle (Polymath Robotics)
 - [TurtleBot](/projects/turtlebot) - Odometry, mapping, and navigation from scratch
