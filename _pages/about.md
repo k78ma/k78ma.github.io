@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my website!
 
-I'm a fourth-year student at the University of Waterloo, studying Mechatronics Engineering (+ AI option). Some things I've worked on:
+I'm an engineer at NVIDIA AV working on perception for safety features. In the past, I studied Mechatronics Engineering and AI at the University of Waterloo. Some things I've worked on:
 - Multi-sensor fusion for autonomous vehicles at [NVIDIA](https://www.nvidia.com/en-us/)
 - Industrial robotics at [Polymath Robotics](https://www.polymathrobotics.com/)
 - MoE perception models for robot picking with [FLAIROP](https://flairop.com/)
