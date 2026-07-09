@@ -3,7 +3,7 @@ layout: page
 title: work
 permalink: /work/
 description: Some stuff I've worked on.
-nav: true
+nav: false
 nav_order: 2
 ---
 
